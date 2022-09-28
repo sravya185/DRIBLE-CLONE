@@ -1,0 +1,1404 @@
+body{
+    background-color: rgb(173, 173, 233);
+   
+}
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.con1{
+    background-color:rgb(0, 0, 77);
+    width:850px;
+    height:520px;
+    margin-left: 50px;
+    margin-top: 50px;
+    color:white;
+    padding-top:20px;   
+}
+.contain2{
+ width:100px;
+ height: 100px;
+ margin-left:50px;
+ margin-top:50px ;
+ background-color: rgb(0, 0, 77);
+}
+.list1 li strong{
+    font-size: 20px; 
+    margin-left: 20px;
+}
+.list1 li{
+    display: inline;
+}
+.list1 li a{
+     text-decoration: none;
+     color:white;
+     margin-left: 100px;
+     font-size: 20px;
+}
+.product{
+    background-color:rgb(0, 0, 77);
+    color:white;
+   
+    margin-left: 28px;
+    border: none;
+}
+.pricing{
+    margin-left: 28px;
+}
+.login{
+  
+    margin-right:20px;
+    text-decoration: none;
+}
+.b1{
+    border:2px solid white;
+    border-radius:0 10px 0 0;
+    height:320px;
+    width:100px;
+    margin-top: 100px;
+    border-left:0;
+    border-bottom: 0;
+}
+.b2{
+    border:2px solid white;
+    border-radius:0 10px 0 0;
+    height:270px;
+    width:150px;
+    border-left:0;
+    border-bottom: 0;
+    position: relative;
+    bottom: 220px;
+}
+.con3{
+    display:flex;
+    flex-direction: row;
+}
+.con4{
+    width:530px;
+    padding-top: 90px;
+    padding-left: 53px;
+}
+.con5{
+    width:150px;
+}
+.mat{
+    font-size: 40px; 
+}
+.b3{
+    border:2px solid white;
+    border-radius: 10px 0 0 0;
+    height:320px;
+    width:100px;
+    margin-top: 100px;
+    border-right:0;
+    border-bottom: 0;
+    margin-left: 47px;
+    
+}
+.b4{
+    border:2px solid white;
+    border-radius: 10px 0 0 0 ;
+    height:270px;
+    width:150px;
+    border-right:0;
+    border-bottom: 0px;
+    position: relative;
+    bottom: 220px;
+}
+.trial{
+    background-color: rgb(228, 127, 228);
+    color: white;
+    margin-left: 130px;
+    text-align: center;
+    height:40px;
+    border-radius: 10px;
+    width:130px;
+}
+
+.white1{
+         width:850px ;
+         height: 430px;
+         background-color: rgb(248, 248, 248);
+         margin-left: 50px; 
+}
+
+.cont5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+       width: 850px;
+       height: 300px;
+       position: relative;
+       bottom: 300px;
+}
+.cont6{
+        margin-left: 20px;
+        width:180px ;
+        height:320px ;
+        background-color:white;
+        border-radius: 15px  15px;
+        position: inherit;
+        bottom:px;
+        
+}
+.cont7{
+    width:180px ;
+    height:300px ;
+  
+}
+.cont8{
+    width:180px ;
+    height:300px ;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+    bottom: 50px;
+}
+.cont9{
+    width:180px ;
+    height:300px ;
+    background-color:aquamarine;
+    margin-right: 20px;
+}
+.but1{
+       width: 180px;
+       height:20px;
+       background-color: rgb(188, 9, 248) ;
+       border: none;
+       border-radius: 10px  10px 0 0;
+       text-align: left;
+       
+}
+
+.fa-ellipsis{
+           color: beige;
+           font-size: 20px;
+}
+.fa-magnifying-glass{
+           color:rgb(63, 59, 59);
+           margin-left: 150px;
+           position: relative; 
+           bottom: 5px;
+
+}
+.img1{
+       width: 50px;
+       height: 50px;
+       border-radius: 35px;
+}
+.small{
+    height:1020px;
+    width:370px;
+   display: flex;
+   flex-direction: column;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.small1{
+    height:400px;
+    width:370px;
+    background-color: rgb(0, 0, 77);
+}
+.small2{
+    height:620px ;
+    width:370px;
+    background-color: white;
+}
+ .growth li{
+    display: inline;
+    color:whitesmoke;
+    position: relative;
+    top:30px;
+} 
+.fa-bars{
+    color: whitesmoke;
+    margin-left: 210px;
+}
+.most{
+    color:white;
+    font-size: 30px;
+    position: relative;
+    top:30px;
+    left:50px;
+}
+.exclu{
+    color:white;
+    position: relative;
+    top:25px;
+    left:10px;
+}
+.start{
+    color:white;
+    background-color: rgb(228, 127, 228);
+    margin-top:35px;
+    margin-left:55px;
+    width:125px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+.c1{
+    height:200px;
+    width:25px;
+    border:1px solid white;
+    border-left: 0;
+    border-radius: 0 30px;
+}
+.c2{
+    height:124px;
+    width:60px;
+    border:1px solid white;
+    border-left: 0;
+    border-radius: 0 25px 0 0;
+    position: relative;
+    bottom: 150px; 
+    border-bottom: 0;
+}
+
+.c3{
+        height:200px;
+        width:25px;
+        border:1px solid white;
+        border-right: 0;
+        border-radius:30px 0 0 0 ;
+        position: relative;
+        border-bottom: 0;
+        left:105px;
+
+}
+.c4{
+    height:123px;
+    width:60px;
+    border:1px solid rgb(199, 201, 196);
+    border-right: 0;
+    border-radius: 25px 0 0 0;
+    position: relative;
+    bottom: 150px; 
+    left:70px ;
+    border-bottom: 0;
+}
+
+.scont{
+    display: flex;
+    flex-direction: row;
+}
+.fourd{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.d1,.d2,.d3,.d4{
+    height:150px;
+    width:80px;
+    background-color: white;
+}
+.d1{
+    border-radius: 10px 10px 0 0;
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+}
+.but2{
+    width:80px;
+    background-color: rgb(188, 9, 248) ;
+    border: none;
+    height: 15px;
+
+    border-radius: 10px 10px 0 0;
+}
+#ellip{
+   position: relative;
+   right:27px;
+   bottom: 3px;
+}
+.img2{
+    width:20px;
+    height: 20px;
+    border-radius: 15px;
+    position: relative;
+    border-bottom: 20px;
+    left: 2px;
+}
+.cont7{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 50px;
+}
+.tv{
+    height: 80px;
+    width:180px ;
+    background-color: white;
+    border-radius: 10px;
+}
+.fa-hand{
+    color: violet;
+    border: 1px solid rgb(75, 73, 73);
+    width:30px;
+    position: relative;
+    top: 9px;
+    left:10px;
+  
+}
+.cardar{
+    position: relative;
+    left:20px;
+    bottom: 10px;
+    color: black;
+}
+.fa-facebook{
+    color: black;
+    font-size: 15px;
+    position: relative;
+    right:35px;
+}
+.perc{
+    position: relative;
+    right:25px;
+    font-size: 10px;
+}
+.kk{
+    font-size:10px;
+    position: relative;
+    right: 13px;
+}
+.fa-stop
+{
+    color:rgb(52, 52, 153);
+    background-color: rgb(52, 52, 153);
+    font-size: 8px;
+    position: relative;
+    right: 18px;
+}
+#stop{
+    color:burlywood;
+    background-color: burlywood;
+    font-size: 8px;
+    position: relative;
+    right: 5px;
+}
+.face li{
+    display: inline;
+    color: black;
+}
+.face{
+    border:1px solid rgb(119, 118, 118);
+    border-radius: 7px;
+    width:127px;
+}
+.book{
+    position: relative;
+    right: 30px;
+    font-size: 10px;
+    color: black;
+}
+.abh{
+    background-color: white;
+    height:150px;
+    position: relative;
+    top:25px;
+    border-radius: 10px;
+    border-left: 5px solid coral;
+}
+.link{
+    border: 1px solid rgb(119, 118, 118);
+    border-radius: 5px;
+    width: 127px;
+}
+.link li{
+    display: inline;
+}
+.in{
+    color: white;
+    background-color: darkblue;
+    border: darkblue;
+    height:15px;
+    font-size: 10px;
+    padding: 2px;
+    border-radius: 2px;
+    width:15px;
+    position: relative;
+    right: 30px;
+}
+.perc1{
+    color:black;
+    font-size: 10px;
+    position: relative;
+    right: 18px;
+}
+.child{
+    height:40px;
+    width:40px;
+    border-radius: 30px;
+    position: relative;
+    left:15px;
+    top:10px;
+}
+.word{
+    color:black;
+    font-size: 10px;
+    position: relative;
+    right:20px;
+}
+.fa-arrow-up-long{
+    color:rgb(0, 253, 253);
+    margin-bottom: 5px;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+#st2{
+    position: relative;
+    right: 30px;
+    left:3px;
+}
+.kk1{
+    color: black;
+    font-size: 10px;
+    position: relative;
+    right: 10px;
+}
+.per{
+    color:aqua;
+    position: relative;
+    bottom: 30px;
+}
+
+.hand{
+    width:180px;
+}
+
+
+.roch{
+    margin-left: 10px;
+    position: relative;
+    bottom:10px;
+    right:55px;
+    color: black;
+}
+.number{
+    font-size: 25px;
+    position: relative;
+    bottom: 8px;
+    left: 10px;
+   
+    color: black;
+}
+.tiana{
+    display: flex;
+    flex-direction: row;
+}
+.mango1 b{
+    color:black;
+    margin-left: 10px;
+}
+.mango1 p{
+    color: rgb(51, 45, 45);
+    margin-left: 10px;
+    position: relative;
+    bottom: 5px;
+}
+.firstpre{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+}
+.secpre{
+    color: rgb(66, 64, 64);
+    font-size: 11px;
+    position: relative;
+    bottom:35px;
+    
+}
+.stat{
+    color: black;
+    position: relative;
+    bottom: 35px;
+    left:10px;
+    font-size: 12px;
+  margin-right: 10px;
+}
+.graph{
+    display: flex;
+    flex-direction: row;
+    width: 170px;
+    height: 250px;
+    position: relative;
+    bottom: 40px;
+    justify-content: space-around;
+}
+.e1{
+     color: rgb(66, 64, 64);
+     position: relative;
+     
+}
+.hr{
+    width: 140px;
+    color:rgb(66, 64, 64);
+    position: relative;
+    bottom: 170px;
+    margin-right: 3px;
+}
+.e2{
+    width: 2px;
+    height: 80px;
+    background-color: blueviolet;
+    position: relative;
+    top: 48px;
+}
+.e3{
+    width: 2px;
+    height: 50px;
+    background-color: chocolate;
+    position: relative;
+    top: 78px;
+}.e4{
+    position: relative;
+    top: 88px;
+    width: 2px;
+    height: 40px;
+    background-color: blueviolet;
+}.e5{
+    position: relative;
+    top: 73px;
+    width: 2px;
+    height: 55px;
+    background-color: chocolate;
+}.e6{
+    position: relative;
+    top: 28px;
+    width: 2px;
+    height: 100px;
+    background-color: blueviolet;
+}.e7{
+    position: relative;
+    top: 68px;
+    width: 2px;
+    height: 60px;
+    background-color: chocolate;
+}.e8{
+    position: relative;
+    top: 58px;
+    width: 2px;
+    height: 70px;
+    background-color: blueviolet;
+}
+.man{
+    font-size: 8px;
+    margin-left: 3px;
+  
+}
+.man p{
+    margin-left: 3px;
+    position: relative;
+    bottom: 5px;
+}
+.simg{
+    display: flex;
+    flex-direction: row;
+}
+.milli{
+    font-size: 10px;
+    position: relative;
+    bottom: 18px;
+}
+.follower{
+    font-size: 10px;
+    position: relative;
+    bottom: 23px;
+}
+.f1{
+    font-size: 10px;
+    position: relative;
+    bottom: 30px;
+}
+.graph2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.f2{
+    background-color: blueviolet;
+    width:1px;
+    height:46px;
+    position: relative;
+    top:2px;
+}
+.f3{
+    background-color: coral;
+    width:1px;
+    height:38px;
+    position: relative;
+    top:10px;
+}
+.f4{
+    background-color: blueviolet;
+    width:1px;
+    height:26px;
+    position: relative;
+    top:22px;
+}
+.f5{
+    background-color: coral;
+    width:1px;
+    height:30px;
+    position: relative;
+    top:18px;
+}
+.f6{
+    background-color: blueviolet;
+    width:1px;
+    height:50px;
+    position: relative;
+   bottom: 2px;
+}
+.f7{
+    background-color: coral;
+    width:1px;
+    height:35px;
+    position: relative;
+    top:13px;
+}
+.f8{
+    background-color: blueviolet;
+    width:1px;
+    height:42px;
+    position: relative;
+    top:6px;
+}
+
+
+
+.couch{
+    width:180px ;
+    height:100px ;
+    
+}
+#girldot{
+    color:rgb(134, 133, 133) ;
+    margin-left: 150px;
+    position: relative;
+    top: 3px;
+   
+}
+.fa-heart{
+    color: rgb(241, 23, 23);
+}
+.coment{
+    display: inline;
+    width: 13px;
+    height: 15px;
+    background-color: none;
+    margin-left: 7px;
+
+}
+.share{
+    display: inline;
+    width: 15px;
+    height: 15px;
+    padding-top: 4px;
+    margin-left: 7px; 
+    background-color: white;
+}
+.fa-bookmark{
+    color:rgb(43, 37, 37);
+    margin-left: 85px;
+    
+}
+.fa-head-side-brain{
+    color: red;
+}
+.follow{
+    color: rgb(85, 82, 82);
+    margin-top: 65px;
+    margin-left: 50px;
+    position: relative;
+}
+.num2{
+    color: black;
+   position: relative;
+   bottom: 5px;
+    margin-left: 3px;
+}
+.fa-arrow-up-long{
+   
+    display: inline;
+    color: rgb(32, 133, 32);
+    position: relative;
+    bottom: 40px;
+    left:45px;
+    font-size: 10px;
+}
+.twof{
+    color: rgb(85, 82, 82);
+    position: relative;
+    left: 57px;
+    bottom: 63px;
+    font-size: 10px;
+}
+.numbold{
+    color: rgb(32, 133, 32);
+}
+.girly{
+    width: 180px;
+    height: 160px;
+    position: relative;
+    bottom: 70px;
+    
+}
+.fiven{
+    width: 180px;
+    height:100px ;
+    background-color: white;
+   position: relative;
+   bottom: 65px;
+}
+.dotdiv{
+    width:180px;
+    height: 50px;
+    background-color: white;
+    margin-top: 20px;
+}
+#smalldot{
+    color:rgb(134, 133, 133) ;
+    margin-left: 50px;
+    position: relative;
+    top: 3px;
+    
+    margin-left: 50px;
+}
+.smallcouch{
+    width:80px ;
+    height: 30px;
+}
+#smallheart{
+    font-size: 10px;
+    color: rgb(241, 23, 23);
+} 
+.smallcoment{
+    font-size: 10px;
+    display: inline;
+    width: 10px;
+    height: 10px;
+    background-color: none;
+    margin-left: 7px;
+}
+.smallshare{
+    display: inline;
+    width: 10px;
+    height: 10px;
+    padding-top: 4px;
+    margin-left: 7px; 
+    background-color: white;
+}
+#smallsave{
+    color:rgb(43, 37, 37);
+    margin-left: 65px;
+    font-size: 10px;
+    position: relative;
+    bottom: 18px;
+}
+.smallfollow{
+    color: rgb(85, 82, 82);
+    margin-top: 5px;
+    margin-left: 15px;
+    position: relative;
+    font-size: 10px;
+}
+.smallnum2{
+    color: black;
+   position: relative;
+   bottom: 5px;
+    margin-left: 1px;
+    font-size: 10px;
+}
+#smallarrow{
+    display: inline;
+    color: rgb(32, 133, 32);
+    position: relative;
+    bottom: 30px;
+    left:30px;
+    font-size: 10px;
+}
+.smalltwof{
+    color: rgb(85, 82, 82);
+    position: relative;
+    left: 40px;
+    bottom: 45px;
+    font-size: 4px;
+}
+
+
+.child2{
+    width:25px;
+    height: 25px;
+    border-radius: 15px;
+    position: relative;
+    top:10px;
+}
+.cardar1{
+    font-size: 7px;
+}
+#brand{
+    font-size: 10px;
+    position: relative;
+
+}
+.book1{
+    font-size:10px;
+    position: relative;
+    right: 8px;
+    bottom: 20px;
+}
+
+.face1 li{
+    display: inline; 
+}
+.face1{
+    border:1px solid rgb(101, 99, 99);
+    width:35px;
+    height: 17px;
+    border-radius: 5px;
+}
+.link2{
+    border:1px solid rgb(101, 99, 99);
+    height:17px;
+    width:35px;
+    border-radius: 5px;
+}
+.link2 li{
+    display: inline;
+}
+
+.word1{
+    font-size: 10px;
+    position: relative;
+    bottom: 20px;
+    right:10px;
+}
+.link3{
+    border-left: 1px solid coral;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top:12px;
+}
+.g1{
+    background-color: white;
+    
+    border-radius: 10px;
+    height:40px;
+    width: 80px;
+    
+}
+
+#l5{
+    font-size: 10px;
+    border: none;
+ 
+}
+.number2{
+    font-size: 10px;
+    margin-left: 5px;
+}
+.per3{
+    position: relative;
+    left:30px;
+    font-size: 10px;
+     bottom: 28px;
+    
+   margin-left: 13px;
+}
+.d2{
+    background-color: rgb(0, 0, 77);
+    
+    position: relative;
+    bottom: 65px;
+    border-radius: 15px;
+}
+.d3{
+    position: relative;
+    bottom: 65px;
+    border-radius: 5px;
+}
+.d4{
+    position: relative;
+    bottom: 30px;
+    border-radius: 5px;
+}
+.cont9{
+    border-radius: 5px;
+}
+.simple{
+    background-color: rgb(240, 234, 234);
+    height: 230px;
+    width:200px;
+    margin-left: 90px;
+    border-top: 3px solid coral;
+    border-bottom: 3px solid blueviolet;
+    border-radius:5px ;
+}
+.social{
+    margin-left: 80px;
+}
+.time{
+    position: relative;
+    bottom: 30px;
+}
+.media{
+    position: relative;
+    bottom:250px;
+    left:300px;
+    color: black;
+}
+.small2{
+  
+    height:570px;
+}
+
+
+#ninedot{
+    color:rgb(134, 133, 133) ;
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+   
+}
+.ninenum{
+    color: black;
+    font-size: 14px;
+   
+}
+.ninebar{
+    color: rgb(68, 59, 59);
+    font-size: 12px;
+}
+.hrbar1{
+    width: 30px;
+    height: 4px;
+    background-color: blueviolet;
+    position: relative;
+    right:67px;
+    bottom: 8px;
+    border-radius: 5px;
+}
+.hrbar2{
+    width: 25px;
+    height: 4px;
+    background-color:coral;
+    position: relative;
+    right:7px;
+    bottom: 22px;
+    border-radius: 5px;
+}
+.hrbar3{
+    width: 25px;
+    height: 4px;
+    background-color:green;
+    position: relative;
+    right:7px;
+    left: 60px;
+    bottom: 37px;
+    border-radius: 5px;
+}
+.vlines{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+}
+.v1{
+    position: relative;
+    
+    top: 40px;
+    left: 25px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.v2{
+   
+    position: relative;
+    top: 85px;
+    left: 25px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.v3{
+    
+    position: relative;
+    top: 60px;
+    left: 26px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color:green;
+    border-radius: 5px;
+}
+.v4{
+   
+    position: relative;
+    top: 40px;
+    left: 50px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.v5{
+   
+    position: relative;
+    top: 85px;
+    left: 50px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.v6{
+    
+    position: relative;
+    top: 60px;
+    left: 50px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color: green;
+    border-radius: 5px;
+}
+.v7{
+    position: relative;
+    
+    top: 40px;
+    left: 70px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+   
+}
+.v8{
+  
+    position: relative;
+    top: 85px;
+    left: 70px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.v9{
+   
+    position: relative;
+    top: 60px;
+    left: 70px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color: green;
+    border-radius: 5px;
+}
+.v10{
+    
+    position: relative;
+    top: 40px;
+    left: 90px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.v11{
+   
+    position: relative;
+    top: 85px;
+    left: 90px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.v12{
+    
+    position: relative;
+    top: 60px;
+    left: 90px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color: green;
+    border-radius: 5px;
+}
+.v13{
+    
+    position: relative;
+    top: 40px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.v14{
+  
+    position: relative;
+    top: 85px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.v15{
+    
+    position: relative;
+    top: 60px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color: green;
+    border-radius: 5px;
+}
+.month{
+    color: rgb(63, 61, 61);
+    margin-top: 50px;
+    font-size: 10px;
+}
+#smallninedot{
+    color:rgb(134, 133, 133) ;
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
+.smallninenum{
+    color: black;
+    font-size: 6px;
+}
+.smallninebar{
+    color: rgb(68, 59, 59);
+    font-size: 6px;  
+}
+.shrbar1{
+    width: 10px;
+    height: 3px;
+    background-color: blueviolet;
+    position: relative;
+    right:32px;
+    bottom: 6px;
+    border-radius: 5px;
+}
+.shrbar2{
+    width: 10px;
+    height: 3px;
+    background-color:coral;
+    position: relative;
+    right:7px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.shrbar3{
+    width: 10px;
+    height: 3px;
+    background-color:green;
+    position: relative;
+    right:2px;
+    left: 25px;
+    bottom: 33px;
+    border-radius: 5px;
+}
+.svlines{
+    display: flex;
+    flex-direction: row;
+}
+.sv1{
+    position: relative;
+    
+    /* top: 10px; */
+    left: 4px;
+    width: 3px;
+    /* bottom: 30px; */
+    height: 40px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.sv2{
+   
+    position: relative;
+    top: 23px;
+    left: 5px;
+    width: 3px;
+    bottom: 3px;
+    height: 17px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.sv3{
+    
+    position: relative;
+    top: 10px;
+    left: 6px;
+    width: 3px;
+    /* bottom: 1px; */
+    height: 30px;
+    background-color:green;
+    border-radius: 5px;
+}
+.sv4{
+   
+    position: relative;
+    /* top: 40px; */
+    left: 15px;
+    width: 3px;
+    /* bottom: 30px; */
+    height: 40px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.sv5{
+   
+    position: relative;
+    top: 23px;
+    left: 15px;
+    width: 3px;
+    bottom: 4px;
+    height: 17px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.sv6{
+    
+    position: relative;
+    top: 10px;
+    left: 15px;
+    width: 3px;
+    bottom: 30px;
+    height: 30px;
+    background-color: green;
+    border-radius: 5px;
+}
+.sv7{
+    position: relative;
+    
+    /* top: 40px; */
+    left: 25px;
+    width: 3px;
+    /* bottom: 30px; */
+    height: 40px;
+    background-color: blueviolet;
+    border-radius: 5px;
+   
+}
+.sv8{
+  
+    position: relative;
+    top: 23px;
+    left: 25px;
+    width: 3px;
+    bottom: 4px;
+    height: 17px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.sv9{
+   
+    position: relative;
+    top: 10px;
+    left: 25px;
+    width: 3px;
+    bottom: 30px;
+    height: 30px;
+    background-color: green;
+    border-radius: 5px;
+}
+.sv10{
+    
+    position: relative;
+    /* top: 40px; */
+    left: 35px;
+    width: 3px;
+    /* bottom: 30px; */
+    height: 40px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.sv11{
+   
+    position: relative;
+    top: 23px;
+    left: 35px;
+    width: 3px;
+    bottom: 30px;
+    height: 17px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.sv12{
+    
+    position: relative;
+    top: 10px;
+    left: 35px;
+    width: 3px;
+    bottom: 30px;
+    height: 30px;
+    background-color: green;
+    border-radius: 5px;
+}
+.sv13{
+    
+    position: relative;
+    top: 40px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.sv14{
+  
+    position: relative;
+    top: 85px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 35px;
+    background-color:yellow;
+    border-radius: 5px;
+}
+.sv15{
+    
+    position: relative;
+    top: 60px;
+    left: 110px;
+    width: 3px;
+    bottom: 30px;
+    height: 60px;
+    background-color: green;
+    border-radius: 5px;
+}
+.smonth{
+    color: rgb(63, 61, 61);
+    /* margin-top: 20px; */
+    font-size: 5px;
+    position: relative;
+    bottom: 40px;
+}
+.cont9{
+    background-color: white;
+}
